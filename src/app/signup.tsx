@@ -1,7 +1,7 @@
 import { View, Text, StyleSheet, Image, ScrollView, KeyboardAvoidingView, Platform, Alert} from 'react-native'
 import { Link } from 'expo-router'
 
-import { Input} from '@/components/input'
+import { Input} from '@/components/Input'
 import { Button } from '@/components/Button'
 
 export default function Signup() { //default export da função Signup, que é o componente principal da aplicação.
